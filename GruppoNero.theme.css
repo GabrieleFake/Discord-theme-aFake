@@ -1,0 +1,35 @@
+/**
+* @name GruppoNero
+* @author aFake#4277
+* @description Simple amoled black + rounded corners theme
+* @source https://github.com/tiredmala/Roundmoled
+* @updateUrl https://tiredmala.github.io/Roundmoled/BetterDiscord/roundmoled.theme.css
+* @authorId 660250676013563934
+* @version 1.1
+*/
+
+/* Base theme file, don't disable */
+
+@import url("https://tiredmala.github.io/Roundmoled/main.css");
+
+/*                                Optional stuff ( delete the /⃰ ⃰/ on top and below the import to enable them)                     */
+
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/blur.css";
+*/
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/optional2.css";
+*/
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/optional/optional3.css";
+*/
+
+/*                                Alternative color palettes                                                                      */ 
+
+
+/*
+@import "https://tiredmala.github.io/Roundmoled/palettes/roundturnal.css";
+*/
